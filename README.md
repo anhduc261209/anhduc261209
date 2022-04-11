@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @anhduc261209
-- 👀 I’m interested in PYTHON AND JAVASCRIPT
-- 🌱 I’m currently learning EVERYTHING
-- 💞️ I’m looking to collaborate on A PROJECT
-- 📫 How to reach me ...
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Idk
+- 💞️ I’m looking to collaborate on Idk
+- 📫 How to reach me ... U cant reach me
 
 <!---
 anhduc261209/anhduc261209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
