@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anhduc261209
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning tkinter ???
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning CustomTkinter
+- 💞️ I’m looking to collaborate on Nobody
 - 📫 How to reach me ... U cant reach me
 
 ![image](https://user-images.githubusercontent.com/96221801/170048470-e3e66116-1f30-4bc6-b5fc-0ba2ad39a7e6.png)
