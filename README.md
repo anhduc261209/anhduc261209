@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nobody
-- 👀 I’m interested in :new_moon_with_face: :new_moon_with_face: :new_moon_with_face: 
+- 👀 I’m interested in Nothing :)
 - 🌱 I’m currently learning Nothing
 - 💞️ I’m looking to collaborate on Nobody
 - 📫 How to reach me: ...
