@@ -1,12 +1,8 @@
-- 👋 Hi, I’m Nobody
-- 👀 I’m interested in Nothing :)
-- 🌱 I’m currently learning Nothing
-- 💞️ I’m looking to collaborate on Nobody
-- 📫 How to reach me: ...
+- 👀 retired developer
+- Ⓜ️©️ sucks 
+- 👩 now i play with ur mom
 
-![image](https://user-images.githubusercontent.com/96221801/170048470-e3e66116-1f30-4bc6-b5fc-0ba2ad39a7e6.png)
-
-Get RICKROLLED
+![your mom fat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Wv71EueXwlcyEzABpFuBuKNlRGc3_0mHz64_wRSmMw&s)
 
 <!---
 anhduc261209/anhduc261209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
